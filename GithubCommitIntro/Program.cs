@@ -10,7 +10,7 @@ namespace GithubCommitIntro
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello from Pencho!");
+            Console.WriteLine("Hello from Penchooooo!");
         }
     }
 }
